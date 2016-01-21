@@ -1,6 +1,6 @@
 # Slava
 # This is an R script
-
+rnorm(12)
 
 
 
