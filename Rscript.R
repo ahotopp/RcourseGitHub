@@ -5,49 +5,76 @@ rnorm(12)
 sqrt(pi)
 sdsdf
 
-
-# Anna
-
-
-
-
-# Caitlin
+#1
 
 
 
 
-# Daniel
+#2
 
 
 
 
-# Emma
+#3
 
 
 
 
-# Jacob
+#4
 
 
 
 
-# Juliet
+#5
 
 
 
 
-# Rachel
+#6
 
 
 
 
-# Sam
+#7
 
 
 
 
-# Yuanchao
+#8
 
 
+
+
+#9
+
+
+
+
+#10
+
+
+
+
+#11
+
+
+
+
+#12
+
+
+
+
+#13
+
+
+
+
+#14
+
+
+
+
+#15
 
 
