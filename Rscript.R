@@ -1,4 +1,3 @@
-
 # Slava
 # This is an R script
 rnorm(12)  
@@ -6,7 +5,7 @@ rnorm(12)
 sqrt(pi)
 sdsdf
 
-keotas
+#1
 
 
 
